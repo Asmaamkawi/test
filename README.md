@@ -22,12 +22,14 @@ Publication - House Prices - Advanced Regression Techniques | Kaggle
  
 
 ## Github repository name: group5project
-group5project
-Group5project_Asmaa
-Group5project_Chayda
-Group5project_Leo
-Group5project_Saber
-Group5project_Xiao
+* Group5project
+* Group5project_Asmaa
+* Group5project_Chayda
+* Group5project_Leo
+* Group5project_Saber
+* Group5project_Xiao
+
+![name-of-you-image](https://github.com/SeanW029/group5project/blob/Asmaa/group5project%20github.JPG)
 
   
  ## Description of the communication protocols:
